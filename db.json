@@ -1,5 +1,5 @@
 {
-	"readInfo": [{
+	"readInfo": {
 		"name": "국밥",
 		"attrs": [{
 			"prefix": "은",
@@ -74,7 +74,7 @@
 			"id": 2
 		}],
 		"id": 1
-	}], 
+	}, 
 	"getInfosList": {
 		"state": true,
 		"msg": "",
