@@ -92,5 +92,31 @@
 		"msg": "",
 		"names": ["국밥"],
 		"ids": ["1"]
+	},
+	"createInfo": {
+		"state": true,
+		"msg": "",
+		"id": "4577"
+	},
+	"modifyInfo": {
+		"state": true,
+		"msg": ""
+	},
+	"deleteInfo": {
+		"state": true,
+		"msg": ""
+	},
+	"createAttr": {
+		"state": true,
+		"msg": "",
+		"aid": "8800"
+	},
+	"modifyAttr": {
+		"state": true,
+		"msg": "",
+	},
+	"deleteAttr": {
+		"state": true,
+		"msg": ""
 	}
 }
