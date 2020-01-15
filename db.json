@@ -1,5 +1,5 @@
 {
-	"subjects": [{
+	"readInfo": [{
 		"name": "국밥",
 		"attrs": [{
 			"prefix": "은",
@@ -38,7 +38,8 @@
 					"postfix": "있다",
 					"id": 77
 				}],
-				"childs": []
+				"childs": [],
+				"id": 8
 			}, {
 				"name": "할매순대국밥",
 				"attrs": [{
@@ -52,8 +53,10 @@
 					"postfix": "있다",
 					"id": 78
 				}],
-				"childs": []
-			}]
+				"childs": [],
+				"id": 23
+			}],
+			"id": 3
 		}, {
 			"name": "소고기국밥",
 			"attrs": [{
@@ -67,8 +70,15 @@
 				"postfix": "이다",
 				"id": 156
 			}],
-			"childs": []
-		}]
+			"childs": [],
+			"id": 2
+		}],
+		"id": 1
 	}], 
-	"subjectsList":["국밥"]
+	"getInfosList": {
+		"state": true,
+		"msg": "",
+		"names": ["국밥"],
+		"ids": [1]
+	}
 }
