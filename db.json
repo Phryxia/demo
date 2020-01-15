@@ -5,12 +5,12 @@
 			"prefix": "은",
 			"content": "든든",
 			"postfix": "하다",
-			"id": 103
+			"id": "103"
 		}, {
 			"prefix": "은",
 			"content": "뜨뜻",
 			"postfix": "하다",
-			"id": 104
+			"id": "104"
 		}],
 		"childs": [{
 			"name": "돼지국밥",
@@ -18,12 +18,12 @@
 				"prefix": "에는",
 				"content": "순대가 들어",
 				"postfix": "있다",
-				"id": 138
+				"id": "138"
 			}, {
 				"prefix": "은",
 				"content": "경남에서 유명",
 				"postfix": "하다",
-				"id": 139
+				"id": "139"
 			}],
 			"childs": [{
 				"name": "무봉리순대국밥",
@@ -31,54 +31,54 @@
 					"prefix": "은",
 					"content": "경남의 체인점",
 					"postfix": "이다",
-					"id": 75
+					"id": "75"
 				}, {
 					"prefix": "에는",
 					"content": "20년째 운영하는 집도",
 					"postfix": "있다",
-					"id": 77
+					"id": "77"
 				}],
 				"childs": [],
-				"id": 8
+				"id": "8"
 			}, {
 				"name": "할매순대국밥",
 				"attrs": [{
 					"prefix": "은",
 					"content": "실제로는 없는 브랜드",
 					"postfix": "이다",
-					"id": 76
+					"id": "76"
 				}, {
 					"prefix": "은",
 					"content": "하나쯤 있을 수도",
 					"postfix": "있다",
-					"id": 78
+					"id": "78"
 				}],
 				"childs": [],
-				"id": 23
+				"id": "23"
 			}],
-			"id": 3
+			"id": "3"
 		}, {
 			"name": "소고기국밥",
 			"attrs": [{
 				"prefix": "은",
 				"content": "대전이 맛있",
 				"postfix": "다",
-				"id": 157
+				"id": "157"
 			}, {
 				"prefix": "은",
 				"content": "얼큰한 국물이 인상적",
 				"postfix": "이다",
-				"id": 156
+				"id": "156"
 			}],
 			"childs": [],
-			"id": 2
+			"id": "2"
 		}],
-		"id": 1
+		"id": "1"
 	}, 
 	"getInfosList": {
 		"state": true,
 		"msg": "",
 		"names": ["국밥"],
-		"ids": [1]
+		"ids": ["1"]
 	}
 }
