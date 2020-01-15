@@ -1,33 +1,61 @@
 {
 	"readInfo": {
-		"name": "국밥",
-		"attrs": [{
-			"prefix": "은",
-			"content": "든든",
-			"postfix": "하다",
-			"id": "103"
-		}, {
-			"prefix": "은",
-			"content": "뜨뜻",
-			"postfix": "하다",
-			"id": "104"
-		}],
-		"childs": [{
-			"name": "돼지국밥",
-			"attrs": [{
-				"prefix": "에는",
-				"content": "순대가 들어",
-				"postfix": "있다",
-				"id": "138"
-			}, {
-				"prefix": "은",
-				"content": "경남에서 유명",
-				"postfix": "하다",
-				"id": "139"
-			}],
-			"childs": [{
+		"state": true,
+		"msg": "",
+		"nodes":
+		[
+			{
+				"name": "국밥",
+				"attrs": 
+				[{
+					"prefix": "은",
+					"content": "든든",
+					"postfix": "하다",
+					"id": "103"
+				}, {
+					"prefix": "은",
+					"content": "뜨뜻",
+					"postfix": "하다",
+					"id": "104"
+				}],
+				"id": "1"
+			},
+			{
+				"name": "돼지국밥",
+				"attrs": 
+				[{
+					"prefix": "에는",
+					"content": "순대가 들어",
+					"postfix": "있다",
+					"id": "138"
+				}, {
+					"prefix": "은",
+					"content": "경남에서 유명",
+					"postfix": "하다",
+					"id": "139"
+				}],
+				"id": "3"
+			},
+			{
+				"name": "소고기국밥",
+				"attrs": 
+				[{
+					"prefix": "은",
+					"content": "대전이 맛있",
+					"postfix": "다",
+					"id": "157"
+				}, {
+					"prefix": "은",
+					"content": "얼큰한 국물이 인상적",
+					"postfix": "이다",
+					"id": "156"
+				}],
+				"id": "2"
+			},
+			{
 				"name": "무봉리순대국밥",
-				"attrs": [{
+				"attrs": 
+				[{
 					"prefix": "은",
 					"content": "경남의 체인점",
 					"postfix": "이다",
@@ -38,11 +66,12 @@
 					"postfix": "있다",
 					"id": "77"
 				}],
-				"childs": [],
 				"id": "8"
-			}, {
+			},
+			{
 				"name": "할매순대국밥",
-				"attrs": [{
+				"attrs": 
+				[{
 					"prefix": "은",
 					"content": "실제로는 없는 브랜드",
 					"postfix": "이다",
@@ -53,27 +82,10 @@
 					"postfix": "있다",
 					"id": "78"
 				}],
-				"childs": [],
 				"id": "23"
-			}],
-			"id": "3"
-		}, {
-			"name": "소고기국밥",
-			"attrs": [{
-				"prefix": "은",
-				"content": "대전이 맛있",
-				"postfix": "다",
-				"id": "157"
-			}, {
-				"prefix": "은",
-				"content": "얼큰한 국물이 인상적",
-				"postfix": "이다",
-				"id": "156"
-			}],
-			"childs": [],
-			"id": "2"
-		}],
-		"id": "1"
+			}
+		],
+		"edges": [[0, 1], [0, 2], [1, 3], [1, 4]]
 	}, 
 	"getInfosList": {
 		"state": true,
